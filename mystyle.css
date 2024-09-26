@@ -93,8 +93,9 @@ legend {
 }
 
 .Head_J {
-    font-size: 60px;
+    font-size: 70px;
     color: #f7f7f7;
+    text-align: center;
 }
 
 .Head_F {
@@ -109,4 +110,12 @@ a {
 
 .body_journey, .body_future {
     background-color: black;
+}
+.Year {
+    padding: 50px;
+    text-align: left;
+}
+.future_content {
+    color: #ffffff;
+    font-size: 40px;
 }
