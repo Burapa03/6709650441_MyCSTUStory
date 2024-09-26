@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Handjet:wght@100..900&family=Ubuntu+Condensed&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Baskervville+SC&family=Handjet:wght@100..900&family=Ubuntu+Condensed&display=swap');
+
 body {
     /* overflow-x: hidden; */
 }
@@ -29,7 +30,7 @@ body {
     border-radius: 50%;
     border: 5px solid #f7f7f7;
 }
-body {
+.body_index {
     background-image: url(https://images3.alphacoders.com/830/thumb-1920-83067.jpg);
     background-size: cover;
     background-position: center; 
@@ -89,4 +90,23 @@ legend {
     margin-left:68px;
     font-size: 30px;
     font-family: "Handjet", sans-serif;
+}
+
+.Head_J {
+    font-size: 60px;
+    color: #f7f7f7;
+}
+
+.Head_F {
+    font-size: 60px;
+    color: #f7f7f7;
+}
+
+a {
+    font-size: 30px;
+    padding: 50px;
+}
+
+.body_journey, .body_future {
+    background-color: black;
 }
